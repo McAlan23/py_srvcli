@@ -1,0 +1,27 @@
+[0.528s] Invoking command in '/home/beka/ros2_foxy/src/py_srvcli': PYTHONPATH=/home/beka/ros2_foxy/src/py_srvcli/install/py_srvcli/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/py_srvcli build --build-base /home/beka/ros2_foxy/src/py_srvcli/build/py_srvcli/build install --prefix /home/beka/ros2_foxy/src/py_srvcli/install/py_srvcli --record /home/beka/ros2_foxy/src/py_srvcli/build/py_srvcli/install.log --single-version-externally-managed
+[0.769s] running egg_info
+[0.772s] writing build/py_srvcli/py_srvcli.egg-info/PKG-INFO
+[0.772s] writing dependency_links to build/py_srvcli/py_srvcli.egg-info/dependency_links.txt
+[0.773s] writing entry points to build/py_srvcli/py_srvcli.egg-info/entry_points.txt
+[0.773s] writing requirements to build/py_srvcli/py_srvcli.egg-info/requires.txt
+[0.774s] writing top-level names to build/py_srvcli/py_srvcli.egg-info/top_level.txt
+[0.778s] reading manifest file 'build/py_srvcli/py_srvcli.egg-info/SOURCES.txt'
+[0.779s] writing manifest file 'build/py_srvcli/py_srvcli.egg-info/SOURCES.txt'
+[0.779s] running build
+[0.780s] running build_py
+[0.780s] copying py_srvcli/service_member_function.py -> /home/beka/ros2_foxy/src/py_srvcli/build/py_srvcli/build/lib/py_srvcli
+[0.781s] running install
+[0.782s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.782s]   warnings.warn(
+[0.783s] running install_lib
+[0.785s] copying /home/beka/ros2_foxy/src/py_srvcli/build/py_srvcli/build/lib/py_srvcli/service_member_function.py -> /home/beka/ros2_foxy/src/py_srvcli/install/py_srvcli/lib/python3.10/site-packages/py_srvcli
+[0.788s] byte-compiling /home/beka/ros2_foxy/src/py_srvcli/install/py_srvcli/lib/python3.10/site-packages/py_srvcli/service_member_function.py to service_member_function.cpython-310.pyc
+[0.789s] running install_data
+[0.790s] running install_egg_info
+[0.792s] removing '/home/beka/ros2_foxy/src/py_srvcli/install/py_srvcli/lib/python3.10/site-packages/py_srvcli-0.0.0-py3.10.egg-info' (and everything under it)
+[0.793s] Copying build/py_srvcli/py_srvcli.egg-info to /home/beka/ros2_foxy/src/py_srvcli/install/py_srvcli/lib/python3.10/site-packages/py_srvcli-0.0.0-py3.10.egg-info
+[0.795s] running install_scripts
+[0.824s] Installing client script to /home/beka/ros2_foxy/src/py_srvcli/install/py_srvcli/lib/py_srvcli
+[0.825s] Installing service script to /home/beka/ros2_foxy/src/py_srvcli/install/py_srvcli/lib/py_srvcli
+[0.826s] writing list of installed files to '/home/beka/ros2_foxy/src/py_srvcli/build/py_srvcli/install.log'
+[0.860s] Invoked command in '/home/beka/ros2_foxy/src/py_srvcli' returned '0': PYTHONPATH=/home/beka/ros2_foxy/src/py_srvcli/install/py_srvcli/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/py_srvcli build --build-base /home/beka/ros2_foxy/src/py_srvcli/build/py_srvcli/build install --prefix /home/beka/ros2_foxy/src/py_srvcli/install/py_srvcli --record /home/beka/ros2_foxy/src/py_srvcli/build/py_srvcli/install.log --single-version-externally-managed
